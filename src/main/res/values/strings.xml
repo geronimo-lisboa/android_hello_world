@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="title_activity_first_screen">FirstScreen</string>
+    <string name="title_activity_primeira_tela">PrimeiraTela</string>
+</resources>
